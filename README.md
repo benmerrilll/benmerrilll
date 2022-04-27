@@ -1,6 +1,6 @@
 ### Hey there, I'm Ben! 
 
-I just graduated :mortar_board: with master's degree in data science from University of Michigan and have an undergrad in mathematics from Colorado State. I've got 3 years of computational computing experience in Python. I enjoy working on interdisciplinary teams, model building, creating great data pipelines, and more. I am actively looking for a data science position.
+I just graduated :mortar_board: with master's degree in data science from University of Michigan and have an undergrad in mathematics from Colorado State. I've got 3 years of computational computing experience in Python and enjoy working on interdisciplinary teams, model building, creating great data pipelines, and more. I am actively looking for a data science position.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ben-merrill">
@@ -27,5 +27,5 @@ My most recent, pinned projects:
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 </div>
 
-Pytorch, Spark, ElasticSearch
+Pytorch, Spark, ElasticSearch, Jupyter, Google Colab, Deepnote
 
