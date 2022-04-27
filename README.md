@@ -2,12 +2,14 @@
 
 I just graduated :mortar_board: with master's degree in data science from University of Michigan and am an undergrad in mathematics from Colorado State. I've got 3 years of computational computing experience in Python. I enjoy working on interdisciplinary teams, model building, creating great data pipelines, and more. I recently finished my master's program and am actively looking for a data science position.
 
+<div align="center">
 <a href="https://www.linkedin.com/in/ben-merrill">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:ben.s.merrill@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
+</div>
 
 My most recent, pinned projects:  
 1) :persevere: teambraininac is my master's capstone. I worked on a team of three master's students on 3D real-time fMRI brain image data. In this project, I built a 3D convolutional neural network to predict brain states and compared CNN prediction accuracies to more traditional support vector machines approaches. Our [website is here](https://share.streamlit.io/yecatstevir/teambrainiac/main/source/streamlit/landing_page.py) and [our paper is here](https://github.com/yecatstevir/teambrainiac/blob/main/Capstone_Final_Report.pdf).
