@@ -2,7 +2,7 @@
 
 I just graduated :mortar_board: with master's degree in data science from University of Michigan and have an undergrad in mathematics from Colorado State. I've got 3 years of computational computing experience in Python and enjoy working on interdisciplinary teams, model building, creating great data pipelines, and more. I am actively looking for a data science position.
 
-<div align="center">
+<div align="Left">
 <a href="https://www.linkedin.com/in/ben-merrill">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
@@ -17,20 +17,29 @@ My most recent, pinned projects:
 3) :school_satchel: graduate-student-instructor-notebook-examples is a repository that showcases a few Jupyter notebooks that I developed for office hours while on the instructional staff for a Network Analysis (graph theory) course in my master's program. You can find an [example of office hours here](https://www.youtube.com/watch?v=RfHZEESgb28).
 
 ### Languages, Tools, and Skills 🛠
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-<img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-<img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
-<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
-<img src='https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
-<img src='https://img.shields.io/badge/Elasic-005571?style=for-the-badge&logo=elastic&logoColor=white' alt='Elastic' />
 <img src='https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white' alt='Colab' />
 <img src='https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=deepnote&logoColor=white' alt='Deepnote' />
+<img src='https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn' />
+<img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
+<img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
+</div>
+<div align="left">
+<img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+</div>
+<div align="left">
+<img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</div>
+<div align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+<img src='https://img.shields.io/badge/Google%20Clout-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='googlecloud' />
+<img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
+<img src='https://img.shields.io/badge/Elasic-005571?style=for-the-badge&logo=elastic&logoColor=white' alt='Elastic' />
 </div>
 
