@@ -26,6 +26,9 @@ My most recent, pinned projects:
 </div>
 <div align="center">
 <img src='https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn' />
+<img src='https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
+<img src='https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white' alt='SciPy' />
+<img src='https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
 <img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
 <img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
 </div>
