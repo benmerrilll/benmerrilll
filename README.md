@@ -27,6 +27,7 @@ My most recent, pinned projects:
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=Jupyter" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Pytorch?style=for-the-badge&logo=Pytorch" alt="Pytorch" />
 </div>
 
 Pytorch, Spark, ElasticSearch, Jupyter, Google Colab, Deepnote, Linux
