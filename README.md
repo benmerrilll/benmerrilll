@@ -22,6 +22,8 @@ My most recent, pinned projects:
 <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src='https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white' alt='Colab' />
 <img src='https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=deepnote&logoColor=white' alt='Deepnote' />
+</div>
+<div align="center">
 <img src='https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit-learn' />
 <img src='https://img.shields.io/badge/Apache%20Spark-4479A1?style=for-the-badge&logo=apache-spark&logoColor=white' alt='Spark' />
 <img src='https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white' alt='Pytorch' />
