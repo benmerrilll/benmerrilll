@@ -1,6 +1,6 @@
 ### Hey there, I'm Ben! 
 
-I just graduated :mortar_board: with master's degree in data science from University of Michigan and have an undergrad in mathematics from Colorado State. I've got 3 years of computational computing experience in Python and enjoy working on interdisciplinary teams, model building, creating great data pipelines, and more. I am actively looking for a data science position.
+I just graduated :mortar_board: with master's degree in data science from University of Michigan and have an undergrad in mathematics from Colorado State. I've got 3 years of computational computing experience in Python and enjoy working on interdisciplinary teams, model building, creating great data pipelines, and more. 
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ben-merrill">
