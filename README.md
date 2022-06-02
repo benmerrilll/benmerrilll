@@ -51,4 +51,4 @@ My most recent, pinned projects:
 
 
 
-# Sparksql, Mode, Looker, DataBricks
+Also Sparksql, Mode, Looker, DataBricks
