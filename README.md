@@ -51,4 +51,4 @@ My most recent, pinned projects:
 
 
 
-Also Sparksql, Mode, Looker, DataBricks
+Also Sparksql, Mode, Looker, DataBricks, Workday(?), G-Suite, Microsoft Office
