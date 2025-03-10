@@ -1,6 +1,6 @@
 ### Hey there, I'm Ben! 
 
-I've got 6 years of computational computing experience and enjoy working on interdisciplinary teams and shipping ML products.
+I enjoy working on interdisciplinary teams and shipping ML products, utilizing my math and data science degrees and over 5 years of programming experience.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ben-merrill">
