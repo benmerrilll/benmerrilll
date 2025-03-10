@@ -1,6 +1,6 @@
 ### Hey there, I'm Ben! 
 
-I just graduated :mortar_board: with master's degree in data science from University of Michigan and have an undergrad in mathematics from Colorado State. I've got 3 years of computational computing experience in Python and enjoy working on interdisciplinary teams, model building, creating great data pipelines, and more. 
+I've got 6 years of computational computing experience and enjoy working on interdisciplinary teams and shipping ML products.
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ben-merrill">
@@ -11,7 +11,7 @@ I just graduated :mortar_board: with master's degree in data science from Univer
 </a>
 </div>
 
-My most recent, open source projects:  
+Some projects from grad school in 2022:
 1) :persevere: [teambraininac](https://github.com/yecatstevir/teambrainiac) is my master's capstone. I worked on a team of three master's students on 3D real-time fMRI brain image data. In this project, I built a 3D convolutional neural network to predict brain states and compared CNN prediction accuracies to more traditional support vector machines approaches. Our [website is here](https://share.streamlit.io/yecatstevir/teambrainiac/main/source/streamlit/landing_page.py) and [our paper is here](https://github.com/yecatstevir/teambrainiac/blob/main/Capstone_Final_Report.pdf).
 2) :family: In [predicting_population_california_with_machine_learning](https://github.com/benmerrilll/predicting_population_california_with_machine_learning), we wrangled data from ~10 public sources and used supervised and unsupervised learning approaches to find interesting connections between geographic, economic, racial, societal, and environmental attributes in California counties. [Here is our final paper](https://github.com/benmerrilll/predicting_population_california_with_machine_learning/blob/main/Final%20Project%20-%20County%20Population%20Changes%20(1).pdf).
 3) :school_satchel: [graduate-student-instructor-notebook-examples](https://github.com/benmerrilll/graduate-student-instructor-notebook-examples) is a repository that showcases a few Jupyter notebooks that I developed for office hours while on the instructional staff for a Network Analysis (graph theory) course in my master's program. You can find an [example of office hours here](https://www.youtube.com/watch?v=RfHZEESgb28).
@@ -51,4 +51,4 @@ My most recent, open source projects:
 
 
 
-Also Sparksql, Mode, Looker, DataBricks, Workday(?), G-Suite, Microsoft Office, Cyber Duck, Liveramp, Airflow
+Also IaC/Terraform, AWS (Sagemaker, lambdas, Airflow), pyspark, DataBricks (model serving, feature serving, compute, model monitoring, workflows)
